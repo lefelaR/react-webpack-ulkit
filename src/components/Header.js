@@ -9,7 +9,7 @@ const Header = () => {
         <nav className="uk-navbar-container" uk-navbar>
         <div className="uk-navbar-left">
             <ul className="uk-navbar-nav">
-                <li className="uk-active uk-button uk-button-default"  type="button" uk-toggle="target: #offcanvas-overlay"><a href="#"><i class="lni lni-menu"></i></a></li>
+                <li className="uk-active uk-button uk-button-default"  type="button" uk-toggle="target: #offcanvas-overlay"><a href="#"><i className="lni lni-menu"></i></a></li>
                 <li>
                     <a href="#">Parent</a>
                     <div className="uk-navbar-dropdown">

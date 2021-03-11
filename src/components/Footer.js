@@ -3,9 +3,13 @@ import React, { Component } from 'react';
 
 
 class Footer extends Component {
-    return(
-        
-    )
+    render(){
+        return(
+            <footer> 
+                <p> Copyright </p>
+            </footer>
+        )
+    }
 }
 
 
